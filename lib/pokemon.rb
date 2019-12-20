@@ -14,7 +14,7 @@ class Pokemon
 
   def self.find(name, id)
     
-    
+
   end
 
 
