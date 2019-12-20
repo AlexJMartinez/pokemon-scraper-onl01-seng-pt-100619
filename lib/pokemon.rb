@@ -9,7 +9,7 @@ class Pokemon
   end
 
   def self.save(name, type, db)
-    if self.id
+    if self
       self.update
     else
       sql = <<-SQL
