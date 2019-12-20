@@ -8,5 +8,7 @@ class Pokemon
     @db = db
   end
 
+  def self.stave
+
 
 end
